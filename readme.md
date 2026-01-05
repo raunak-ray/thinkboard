@@ -5,6 +5,12 @@ The project helped me understand how the frontend and backend communicate and ho
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://thinkboard-yjz3.onrender.com/
+
+---
+
 ## 🚀 Features
 
 - Create a new note
